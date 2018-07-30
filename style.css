@@ -1,0 +1,8 @@
+#introduction {
+	background-image: url("images/BackgroundDiamondOre.jpg");
+}
+.intro-text {
+	background-color: white;
+	opacity: 0.55;
+	width: 60%;
+}
