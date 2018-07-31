@@ -6,3 +6,9 @@
 	opacity: 0.55;
 	width: 60%;
 }
+.title {
+	text-align: center;
+}
+#aboutme {
+	background: #b420ea;
+}
