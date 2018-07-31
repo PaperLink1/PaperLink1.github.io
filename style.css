@@ -11,4 +11,30 @@
 }
 #aboutme {
 	background: radial-gradient(#51376b, #712891, #9231bc, #bcb731);
+	text-align: center;
+	
+}
+.list-aboutme {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	background-color: #d8d141;
+	overflow: hidden;
+}
+li.abme {
+    float: left;
+}
+
+li.abme a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li.abme a:hover {
+    background-color: #111;
+}
+.active {
+    background-color: #9239ad;
 }
